@@ -1,15 +1,12 @@
+#
 Check out what this offers
-
 https://www.coursehero.com/file/206683978/SDN-Pre-Assessmentpdf/
-
-
 this too
-
-
 https://www.cse.wustl.edu/~jain/cse570-13/ftp/m_16sdn.pdf
-
-
 https://study.com/academy/practice/quiz-worksheet-software-defined-network-sdn-overview.html
+
+### Actual Class Notes 
+See Cource chatter > George M Notes
 
 This course provides guidance to help you demonstrate the following competencies:
 
@@ -47,3 +44,26 @@ It is highly recommended that you use the following resources to maximize your s
 “Introduction to SDN and OpenFlow (3:29:00)” from Udemy   https://lrps.wgu.edu/provision/381720354
 “Introduction to Cisco Automation and Software Defined Networks (1:24:00)” from Pluralsight  https://lrps.wgu.edu/provision/303933736
 “SDN and SD-WAN Fundamentals: Intro to Software-defined Networking (1:12:00)” from Pluralsight https://lrps.wgu.edu/provision/303938265
+
+The layers in the OSI model and TCP/IP provide a foundation upon which a software-defined network builds. 
+
+SDN and SDN operations including OpenFlow, network programmability, and network automation will be defined and covered. 
+
+The benefits of automation along with automation tools will be covered. 
+
+The frameworks for SDN and some use cases will be offered. 
+
+Some SDN frameworks, as well as secure ways of implementing SDN configuration standards, will be covered.
+
+"SDN is network programmability and network automation" <- define software-defined networking
+
+SDN operations involve OpenFlow, network programmability, network automation, and virtual switching.  <- define software-defined networking operations
+
+SDN provides opportunities for network virtualization by building and managing networks using network automation. <- identify the opportunities for automation tools to perform specific software-defined networking operations
+
+
+OSI 7 layers and IETF:
+interface network
+internet
+transport
+application
