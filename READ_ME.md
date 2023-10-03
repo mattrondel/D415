@@ -67,3 +67,7 @@ interface network
 internet
 transport
 application
+
+
+There are three main components to a software-defined network: controller, applications, and devices.
+Controller is the control plane
