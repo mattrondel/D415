@@ -95,3 +95,4 @@ think beacon offers multi threads of light
 Which IPv6 address identifies each network interface?
 Anycast , think anycasts network interfaces
 
+NFV - Network Functions Virtualization is the replacement of network appliance hardware with virtual machines
