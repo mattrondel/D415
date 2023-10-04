@@ -77,3 +77,6 @@ Quizes
 Which OSI model layer is responsible for the segment protocol data unit?
 The transport layer in the OSI model handles segments.
 
+
+Which protocol in the software-defined networking (SDN) framework is responsible for defining the communication between the controller and a network device?
+OpenFlow - Its a protocol used in some SDN implementations between the control and forwarding layers of an SDN architecture.
