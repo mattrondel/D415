@@ -71,3 +71,9 @@ application
 
 There are three main components to a software-defined network: controller, applications, and devices.
 Controller is the control plane
+
+
+Quizes
+Which OSI model layer is responsible for the segment protocol data unit?
+The transport layer in the OSI model handles segments.
+
