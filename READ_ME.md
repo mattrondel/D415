@@ -80,3 +80,18 @@ The transport layer in the OSI model handles segments.
 
 Which protocol in the software-defined networking (SDN) framework is responsible for defining the communication between the controller and a network device?
 OpenFlow - Its a protocol used in some SDN implementations between the control and forwarding layers of an SDN architecture.
+
+Which OpenStack unit provides authentication?
+Keystone, think Keystone is they keystone for authentication for open stack
+
+Which interface in SDN allows the controller to communicate, interact, and manage forwarding elements?
+Southbound - Openflow is the common implmentation of the southbound interface
+
+
+Which OpenFlow SDN controller has a multi-threaded, cross-platform, and modular emphasis?
+Beacon is the Java-based OpenFlow SDN controller that employs a multi-threaded architectural design.
+think beacon offers multi threads of light
+
+Which IPv6 address identifies each network interface?
+Anycast , think anycasts network interfaces
+
