@@ -17,7 +17,9 @@ Virtualing network functions
 ### VNF – 
 Virtual Network Functions
 What this means – a software-based implementation of a network function (duh it’s in the name) that would be traditionally preformed by dedicated hardware appliances. VNF run on virtualized infrastructure and can deployed, managed and scaled more dynamically compared to traditional hardware-based solutions.
+
 Know any examples? – not at this time
+
 Google quick definition - Common VNFs include virtualized routers, firewalls, WAN optimization, and network address translation (NAT) services. Most VNFs are run in virtual machines (VMs) on common virtualization infrastructure software such as VMWare or KVM. (<- this sounds a lot like NFVs?)
 3:20
 
