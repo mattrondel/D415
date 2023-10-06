@@ -1,10 +1,17 @@
-# Southbound vs Northbound
+## Southbound vs Northbound
 
-# Northbound
+
+### Northbound
 
 Sometimes called NBI
 
+Whats its purpose?
 
-# Southbound
+
+
+
+### Southbound
 
 Sometimes called SBI  
+
+Whats its purpose?
