@@ -54,3 +54,31 @@ NFVI
 
 
 Service chaining - multiple VNFs map together in a process called service chaining for seamless fully functional communication services 
+
+## Attacks and Exploitation 
+
+•	During the reconnaissance phase the attacker gathers information about the target electronically or physically  
+
+•	Vulnerability is the state of being exposed to the possibility of the network being attacked
+
+•	cyber kill chain terms:
+
+•	There are 8 phases:
+
+https://www.crowdstrike.com/cybersecurity-101/cyber-kill-chain/
+
+•	Phase 1: Reconnaissance
+
+•	Phase 2: Weaponization
+
+•	Phase 3: Delivery – happens when the attack is transmitted to the intended victim
+
+•	Phase 4: Exploitation – occurs when an attack actually happens
+
+•	Phase 5: Installation – happens when the attacker installs malware on the system
+
+•	Phase 6: Command and Control – implies that once a system is compromised it has to call home to a command and control system
+
+•	Phase 7: Actions on Objective
+
+•	eighth step: Monetization (added 
