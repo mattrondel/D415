@@ -37,8 +37,7 @@ Google quick definition - Common VNFs include virtualized routers, firewalls, WA
 
 ### VNFI - 
 
-### CVSS
-•	Free and open industry standard for assessing the severity of computer system security vulnerabilities
+### CVSS •	Free and open industry standard for assessing the severity of computer system security vulnerabilities
 
 •	It's a way to evaluate and rank reported vulnerabilities in a standardized and repeatable way.
 
