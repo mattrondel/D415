@@ -1,8 +1,8 @@
 Differences_between_NFV_vs_SDN
-# NFV 
+# # NFV 
 Network Function Virtualization
 
-# SDN
+## SDN
 Software Defined Networking
 
 both sound similar
