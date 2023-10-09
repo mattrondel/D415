@@ -2,23 +2,33 @@ Automation Software
 
 from:https://app.pluralsight.com/course-player?clipId=2d6b2d7b-fc16-4655-bf12-68a5b4fead37
 ## Ansible
+--------------
 Written in python
 Agentless
-
 -Terminolgy-
-Logic - Playbook
-Device - Inventory
-Templates - Templates - written in Jinja2
-Variables - Variables - Written in YAML
+Logic      - Playbook
+Device     - Inventory
+Templates  - Templates - written in Jinja2
+Variables  - Variables - Written in YAML
 uses PUSH (to devices) over SSH or NETCONF (an XML file)
 the PUSH is also how get the configuration from a device
 
 
 ## Puppet
-Written in 
+--------------
+Written in C++, Ruby and Closure
+PULL Method
+Uses an agent
+Uses TCP Port 8140
+-Terminolgy-
+Logic     - Manifest
+Devices   - Resources/Class/Module
+Templates - Templates
+Variables - Variables
 
 
 ## Chef
+--------------
 Written in Ruby
 PULL Method
 -Terminolgy-
