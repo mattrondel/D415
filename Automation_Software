@@ -19,3 +19,10 @@ Written in
 
 
 ## Chef
+Written in Ruby
+PULL Method
+-Terminolgy-
+Logic     - Recipe/RunList
+Devices   - Resources
+Templates - Cookbook
+Variables - Variables
