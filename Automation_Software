@@ -2,8 +2,8 @@ Automation Software
 
 from:https://app.pluralsight.com/course-player?clipId=2d6b2d7b-fc16-4655-bf12-68a5b4fead37
 ## Ansible
-
 Written in python
+Agentless
 
 -Terminolgy-
 Logic - Playbook
@@ -15,7 +15,7 @@ the PUSH is also how get the configuration from a device
 
 
 ## Puppet
-
+Written in 
 
 
 ## Chef
