@@ -5,6 +5,7 @@ from:https://app.pluralsight.com/course-player?clipId=2d6b2d7b-fc16-4655-bf12-68
 --------------
 Written in python
 Agentless
+
 -Terminolgy-
 Logic      - Playbook
 Device     - Inventory
@@ -20,6 +21,7 @@ Written in C++, Ruby and Closure
 PULL Method
 Uses an agent
 Uses TCP Port 8140
+
 -Terminolgy-
 Logic     - Manifest
 Devices   - Resources/Class/Module
@@ -32,6 +34,7 @@ Variables - Variables
 Written in Ruby
 PULL Method
 Uses an agent
+
 -Terminolgy-
 Logic     - Recipe/RunList
 Devices   - Resources
