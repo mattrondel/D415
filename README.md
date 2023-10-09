@@ -7,6 +7,7 @@ SDN WGU Course notes
 ## Learning Opportunities
 
 It is highly recommended that you use the following resources to maximize your success:
+
 •	“Introduction to SDN and OpenFlow (3:29:00)” from Udemy (David Bombal) 
 https://lrps.wgu.edu/provision/381720354
 
