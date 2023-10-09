@@ -1,7 +1,6 @@
 D415
 
-5 sections to the course material
-
+Flash cards:  https://ankiweb.net/decks
 
 SDN WGU Course notes
 
