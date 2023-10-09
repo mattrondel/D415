@@ -5,14 +5,15 @@ from:https://app.pluralsight.com/course-player?clipId=2d6b2d7b-fc16-4655-bf12-68
 --------------
 Written in python
 Agentless
+uses PUSH (to devices) over SSH or NETCONF (an XML file)
+the PUSH is also how get the configuration from a device
 
 -Terminolgy-
 Logic      - Playbook
 Device     - Inventory
 Templates  - Templates - written in Jinja2
 Variables  - Variables - Written in YAML
-uses PUSH (to devices) over SSH or NETCONF (an XML file)
-the PUSH is also how get the configuration from a device
+
 
 
 ## Puppet
