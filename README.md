@@ -17,7 +17,7 @@ https://lrps.wgu.edu/provision/303933736
 •	“SDN and SD-WAN Fundamentals: Intro to Software-defined Networking (1:12:00)” from Pluralsight 
 https://lrps.wgu.edu/provision/303938265
 
-
+Course Chatter notes:
 
 "Passed this course a few days ago with about 2 weeks of studying. As others have said STRONGLY recommend watching the 3 videos listed in the course material. The book isn't too long of a read but I do recommend reading that as well to supplement the videos. Know the acronyms NFV, VNF, VNFM, VNFI, CVSS. I also recommend if you have not taken CCNA or have no background in network security(firewalls) brush up on those sections in the book. NIST 800-125B, NIST 800-53 were not explained deeply in the book but I googled on my own to get a better understanding."
 
