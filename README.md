@@ -7,13 +7,13 @@ SDN WGU Course notes
 ## Learning Opportunities
 
 It is highly recommended that you use the following resources to maximize your success:
-•	“Introduction to SDN and OpenFlow (3:29:00)” from Udemy  
+•	“Introduction to SDN and OpenFlow (3:29:00)” from Udemy (David Bombal) 
 https://lrps.wgu.edu/provision/381720354
 
-•	“Introduction to Cisco Automation and Software Defined Networks (1:24:00)” from Pluralsight 
+•	“Introduction to Cisco Automation and Software Defined Networks (1:24:00)” from Pluralsight (Ross Bagurdes)
 https://lrps.wgu.edu/provision/303933736
 
-•	“SDN and SD-WAN Fundamentals: Intro to Software-defined Networking (1:12:00)” from Pluralsight 
+•	“SDN and SD-WAN Fundamentals: Intro to Software-defined Networking (1:12:00)” from Pluralsight (Sean Douglas)
 https://lrps.wgu.edu/provision/303938265
 
 ## Course Chatter notes:
