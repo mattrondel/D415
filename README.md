@@ -21,9 +21,18 @@ https://lrps.wgu.edu/provision/303938265
 
 Watch the following video to strengthen your knowledge:
 
+
+"5 SDN Concepts You’ve Gotta Know" (1:56:37) from Kevin Wallace Training, LLC
+
+https://lrps.wgu.edu/provision/308889815
+
 “Cisco Network Security: Core Security Concepts” (1:46) from LinkedIn Learning
 
 https://lrps.wgu.edu/provision/308882104
+
+“Learning Network Troubleshooting” (2:01) from LinkedIn Learning
+
+https://lrps.wgu.edu/provision/308882281
 
 ## Course Chatter notes:
 
