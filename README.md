@@ -47,7 +47,7 @@ This is to secure vm workloads
 
 Section 4.4 makes 4 recommendations for protecting VM workloads with modern architecture
 
-•	##VM-FW-R1##  – In virtualized environments its best to have delay sensitive items virtualized like firewalls to avoid latency. 
+##VM-FW-R1##  – In virtualized environments its best to have delay sensitive items virtualized like firewalls to avoid latency. 
 
 •	##VM-FW-R2## – For I/O virtualized sensitive applications kernel based virtual firewalls should be deployed instead of subnet level because kernal based virtual firewalls preform packet processing in the kernel of the hypervisor at native hardware speeds
 
