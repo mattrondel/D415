@@ -89,6 +89,62 @@ IPS implementations
 •	IDS implementations
 
 •	IDS is passive typically used span or tap done this way because they couldn’t keep up with in real-time, basically a listen only device and can’t take action automatically
+
 •	Detection mechanism is typically signature based and exploit facing signatures.
 
 •	Out of band 
+
+------------------
+
+The bastion host processes and filters all incoming traffic and prevents malicious traffic from entering the network, acting much like a gateway. The most common examples of bastion hosts are mail, domain name system, Web and File Transfer Protocol (FTP) servers. Firewalls and routers can also become bastion hosts. This hosts are typlcially places in the DMZ
+
+Bastion hosts serve as a main point of contact for incoming connections
+
+Basion hosts define a clear boundry between trusted and untrusted domains
+
+SDN Planes
+
+Northbound plane - is the link between the applcations and SDN controller
+
+Application plane - was developed for telemetry to communicated behaviors and needed resources to the controller
+
+	think applcations create telemetry data
+	
+Data Plane - software based and users transmit packets through this plane
+
+Control Plane - consists of one or more controllers and deals with the network toplopgy including the information about the routing table
+
+	this is considered the brain of the system and is the center of SDN achitecture. this is the most important component and controls ass the dta plane devices
+
+
+Solarwinds NPN - can detect dianose and resolve preformace problems
+
+Network telemetry - refers to a server acting as intermedaiary between a client asking for resources and server with the resources
+
+Open stack make memorable items
+https://www.geeksforgeeks.org/introduction-to-openstack/
+
+
+EOL 
+EOL hardware often comes with high maint costs as the parts become had to find as they are discontinued
+
+EOL hardware has limited ability to adapt to the incresing needs of networks eg 2550 cisco switch - decreased productivity
+
+EOL hardware that no longer receives patches fixes and firmware updates leads to increase security risks/compromised data
+
+EOL hardware can fail and reduce/decrease productivty 
+
+worded oddly but traceroute can trace the router of a packet within a network
+
+The vSAN Ruby vSphere Console (RVC) is a undocumented feature of vSAN that allows you to explore some pretty kick-ass features of vSAN in terms of what-if scenarios, cluster info, and dashboard information from the vCenter server appliance.
+
+VMware vSAN is an enterprise storage virtualization software that supports hyper-converged infrastructure (HCI)
+
+VNF life cycle
+
+5 stages:
+
+development, instanantiation, operation, enchancement and retirement
+
+
+Service function chaining
