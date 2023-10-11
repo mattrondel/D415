@@ -1,3 +1,7 @@
+Decent recommended book
+
+https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docID=5611487&ppg=210#
+
 "Know your acronyms (eg: NFV, VNF, VNFM, VNFI, CVSS)"
 •	Name
 
