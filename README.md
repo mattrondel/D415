@@ -47,48 +47,48 @@ This is to secure vm workloads
 
 Section 4.4 makes 4 recommendations for protecting VM workloads with modern architecture
 
-VM-FW-R1 – In virtualized environments its best to have delay sensitive items virtualized like firewalls to avoid latency. 
+•	VM-FW-R1 – In virtualized environments its best to have delay sensitive items virtualized like firewalls to avoid latency. 
 
-VM-FW-R2 – For I/O virtualized sensitive applications kernel based virtual firewalls should be deployed instead of subnet level because kernal based virtual firewalls preform packet processing in the kernel of the hypervisor at native hardware speeds
+•	VM-FW-R2 – For I/O virtualized sensitive applications kernel based virtual firewalls should be deployed instead of subnet level because kernal based virtual firewalls preform packet processing in the kernel of the hypervisor at native hardware speeds
 
-VM-FW-R3 – for subnet and kernel based virtual firewalls it is preferable if the firewall is integrated with a virtual management platform rather than accessible through a stand-alone console. The former with enable easier provisioning of uniform firewall rules to multiple firewall instances, thus reducing the chances of configuration errors.
+•	VM-FW-R3 – for subnet and kernel based virtual firewalls it is preferable if the firewall is integrated with a virtual management platform rather than accessible through a stand-alone console. The former with enable easier provisioning of uniform firewall rules to multiple firewall instances, thus reducing the chances of configuration errors.
 
-VM-FW-R4 - for subnet and kernel based virtual firewalls it is preferable that the firewall supports rules using higher level components or abstractions in addition to the basic 5 tuple  (source/dest IP address, source/destination ports protocol)
+•	VM-FW-R4 - for subnet and kernel based virtual firewalls it is preferable that the firewall supports rules using higher level components or abstractions in addition to the basic 5 tuple  (source/dest IP address, source/destination ports protocol)
 
 FYI 5 tuple means the five attributes: 
 
 
-Source IP address (the address you're coming from)
+•	Source IP address (the address you're coming from)
 
-Source port (usually any, but could be changed if needed)
+•	Source port (usually any, but could be changed if needed)
 
-Destination IP address (the address you're going to)
+•	Destination IP address (the address you're going to)
 
-Destination port (typically 80, 443 or 25, but could be anything)
+•	Destination port (typically 80, 443 or 25, but could be anything)
 
-Destination protocol (TCP or UDP)
+• Destination protocol (TCP or UDP)
 
 https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docID=5611487&ppg=152
 
 IPS implementations 
 
-often sit behind a firewall 
+•	Often sit behind a firewall 
 
-Inline product
+•	Inline product
 
-Send alarms to the admins
+•	Send alarms to the admins
 
-Drop the malicious packets
+•	Drop the malicious packets
 
-Blocking traffic from the source address
+•	Blocking traffic from the source address
 
-Reset the connection(s)
+•	Reset the connection(s)
 
-Uses either signature detection and/or statistical anomaly based detection
+•	Uses either signature detection and/or statistical anomaly based detection
 
-IDS implementations
+•	IDS implementations
 
-IDS is passive typically used span or tap done this way because they couldn’t keep up with in real-time, basically a listen only device and can’t take action automatically
-Detection mechanism is typically signature based and exploit facing signatures.
+•	IDS is passive typically used span or tap done this way because they couldn’t keep up with in real-time, basically a listen only device and can’t take action automatically
+•	Detection mechanism is typically signature based and exploit facing signatures.
 
-Out of band 
+•	Out of band 
