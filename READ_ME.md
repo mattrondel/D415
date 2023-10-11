@@ -42,7 +42,9 @@ Learning Opportunities
 It is highly recommended that you use the following resources to maximize your success:
 
 “Introduction to SDN and OpenFlow (3:29:00)” from Udemy   https://lrps.wgu.edu/provision/381720354
+
 “Introduction to Cisco Automation and Software Defined Networks (1:24:00)” from Pluralsight  https://lrps.wgu.edu/provision/303933736
+
 “SDN and SD-WAN Fundamentals: Intro to Software-defined Networking (1:12:00)” from Pluralsight https://lrps.wgu.edu/provision/303938265
 
 The layers in the OSI model and TCP/IP provide a foundation upon which a software-defined network builds. 
