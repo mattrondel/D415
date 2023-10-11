@@ -95,6 +95,7 @@ IPS implementations
 •	Out of band 
 
 ------------------
+## Bastion Hosts
 
 The bastion host processes and filters all incoming traffic and prevents malicious traffic from entering the network, acting much like a gateway. The most common examples of bastion hosts are mail, domain name system, Web and File Transfer Protocol (FTP) servers. Firewalls and routers can also become bastion hosts. This hosts are typlcially places in the DMZ
 
@@ -102,7 +103,7 @@ Bastion hosts serve as a main point of contact for incoming connections
 
 Basion hosts define a clear boundry between trusted and untrusted domains
 
-SDN Planes
+## SDN Planes
 
 Northbound plane - is the link between the applcations and SDN controller
 
@@ -125,7 +126,8 @@ Open stack make memorable items
 https://www.geeksforgeeks.org/introduction-to-openstack/
 
 
-EOL 
+## EOL 
+
 EOL hardware often comes with high maint costs as the parts become had to find as they are discontinued
 
 EOL hardware has limited ability to adapt to the incresing needs of networks eg 2550 cisco switch - decreased productivity
@@ -140,11 +142,15 @@ The vSAN Ruby vSphere Console (RVC) is a undocumented feature of vSAN that allow
 
 VMware vSAN is an enterprise storage virtualization software that supports hyper-converged infrastructure (HCI)
 
-VNF life cycle
+## VNF life cycle
 
 5 stages:
 
-development, instanantiation, operation, enchancement and retirement
+•	Development
+•	Instanantiation
+•	Operation 
+•	Enchancement 
+•	Retirement
 
 
 Service function chaining
