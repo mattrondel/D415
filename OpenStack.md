@@ -50,7 +50,7 @@ Ironic - provisioning tool for baremetal installs The Ironic module is forked fr
 
 **_Service Modules_**
 
-**Trove** 
+**Trove** its a ditributed database service and enables users to deploy retaional and non-relational database engines
 
 **Sahara** used to be called Savanna - Big data services by providing elastic MapReduce and the abiltiy to provision Hadoop
 
@@ -58,4 +58,4 @@ Ironic - provisioning tool for baremetal installs The Ironic module is forked fr
 
 **Zaqar** provides a muliti0tenant cloud messaging service
 
-**Magnum** umbrella project for container assitance. module is still under development
+**Magnum** umbrella project for container assitance. Module is still under development
