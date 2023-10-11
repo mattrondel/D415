@@ -35,7 +35,9 @@ Google quick definition - Common VNFs include virtualized routers, firewalls, WA
 
 ### VNFM - 
 
-### VNFI - 
+### VNFI
+
+•	Virtual Network Functions infratructure
 
 ### CVSS •	Free and open industry standard for assessing the severity of computer system security vulnerabilities
 
