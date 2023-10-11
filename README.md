@@ -41,6 +41,8 @@ https://lrps.wgu.edu/provision/308882281
 "Passed on my first attempt last night. As others have stated, the 3 videos in the beginning are critical as well as the reading material. I switched over from the Cloud Deployment and Operations course after failing twice, and this course was 10000x better in my opinion. I had multiple questions on OpenStack, SDN vs NFV, NIST 800-53 and 800-125b, CVSS, Southbound VS Northbound interface, and firewalls. The PA is a great indicator of how you'll do, so just review the sections you missed and you'll be fine. You got this!!!"
 
 ------------------
+## Unsorted Notes:
+
 Secure Virtual Network configuration for VM Protection
 
 This is to secure vm workloads
@@ -94,7 +96,6 @@ IPS implementations
 
 •	Out of band 
 
-------------------
 ## Bastion Hosts
 
 The bastion host processes and filters all incoming traffic and prevents malicious traffic from entering the network, acting much like a gateway. The most common examples of bastion hosts are mail, domain name system, Web and File Transfer Protocol (FTP) servers. Firewalls and routers can also become bastion hosts. This hosts are typlcially places in the DMZ
