@@ -111,18 +111,21 @@ Application plane - was developed for telemetry to communicated behaviors and ne
 
 	think applcations create telemetry data
 	
-Data Plane - software based and users transmit packets through this plane
+Data Plane
+•	Software based and users transmit packets through this plane
 
 Control Plane - consists of one or more controllers and deals with the network toplopgy including the information about the routing table
 
-	this is considered the brain of the system and is the center of SDN achitecture. this is the most important component and controls ass the dta plane devices
+•	This is considered the brain of the system and is the center of SDN achitecture. this is the most important component and controls as the dta plane devices
 
 
-Solarwinds NPN - can detect dianose and resolve preformace problems
+Solarwinds NPN
+•	Can detect dianose and resolve preformace problems
 
 Network telemetry - refers to a server acting as intermedaiary between a client asking for resources and server with the resources
 
 Open stack make memorable items
+
 https://www.geeksforgeeks.org/introduction-to-openstack/
 
 
