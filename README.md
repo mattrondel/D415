@@ -47,13 +47,13 @@ This is to secure vm workloads
 
 Section 4.4 makes 4 recommendations for protecting VM workloads with modern architecture
 
-•	VM-FW-R1 – In virtualized environments its best to have delay sensitive items virtualized like firewalls to avoid latency. 
+•	##VM-FW-R1##  – In virtualized environments its best to have delay sensitive items virtualized like firewalls to avoid latency. 
 
-•	VM-FW-R2 – For I/O virtualized sensitive applications kernel based virtual firewalls should be deployed instead of subnet level because kernal based virtual firewalls preform packet processing in the kernel of the hypervisor at native hardware speeds
+•	##VM-FW-R2## – For I/O virtualized sensitive applications kernel based virtual firewalls should be deployed instead of subnet level because kernal based virtual firewalls preform packet processing in the kernel of the hypervisor at native hardware speeds
 
-•	VM-FW-R3 – for subnet and kernel based virtual firewalls it is preferable if the firewall is integrated with a virtual management platform rather than accessible through a stand-alone console. The former with enable easier provisioning of uniform firewall rules to multiple firewall instances, thus reducing the chances of configuration errors.
+•	##VM-FW-R3## – for subnet and kernel based virtual firewalls it is preferable if the firewall is integrated with a virtual management platform rather than accessible through a stand-alone console. The former with enable easier provisioning of uniform firewall rules to multiple firewall instances, thus reducing the chances of configuration errors.
 
-•	VM-FW-R4 - for subnet and kernel based virtual firewalls it is preferable that the firewall supports rules using higher level components or abstractions in addition to the basic 5 tuple  (source/dest IP address, source/destination ports protocol)
+•	##VM-FW-R4## - for subnet and kernel based virtual firewalls it is preferable that the firewall supports rules using higher level components or abstractions in addition to the basic 5 tuple  (source/dest IP address, source/destination ports protocol)
 
 FYI 5 tuple means the five attributes: 
 
