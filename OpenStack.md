@@ -35,10 +35,10 @@ Cinder is used for block storage
 
 **Trove** 
 
-**Sahara** 
+**Sahara** used to be called Savanna - Big data services by providing elastic MapReduce and the abiltiy to provision Hadoop
 
-**Maila**
+**Maila** NAS solutions for OpenStack deployment
 
-**Zaqar **
+**Zaqar** provides a muliti0tenant cloud messaging service
 
 **Magnum**
