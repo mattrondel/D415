@@ -41,7 +41,9 @@ Google quick definition - Common VNFs include virtualized routers, firewalls, WA
 
 •	It's a way to evaluate and rank reported vulnerabilities in a standardized and repeatable way.
 
-•	it’s a standard framework used to asset and communicate the severity of vulnerabilities in software and systems. it assigns a numerical score to vulnerabilities based on factors like the impact, exploitability and complexity of the vulnerabilities. The CVSSS score helps organizations prioritize, their response to security vulnerabilities.
+•	It’s a standard framework used to asset and communicate the severity of vulnerabilities in software and systems. it assigns a numerical score to vulnerabilities based on factors like the impact, exploitability and complexity of the vulnerabilities. The CVSSS score helps organizations prioritize, their response to security vulnerabilities.
+
+•	CVSS is an open-source framework for identifying and defining software vulnerabilities.
 
 ## Network Automation facts
 Ansible – written in python
