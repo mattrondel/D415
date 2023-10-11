@@ -4,6 +4,10 @@ https://www.geeksforgeeks.org/introduction-to-openstack/
 
 https://www.techtarget.com/searchstorage/tip/Everything-you-need-to-know-about-OpenStack-modules
 
+School material:
+
+https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docID=5611487&ppg=115
+
 
 Swift - improve effiececy and scalability of user storage and unstructed data THINK SWIFT STROAGE
 
