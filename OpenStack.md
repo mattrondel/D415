@@ -4,7 +4,7 @@ https://www.geeksforgeeks.org/introduction-to-openstack/
 
 https://www.techtarget.com/searchstorage/tip/Everything-you-need-to-know-about-OpenStack-modules
 
-School material:
+School material
 
 https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docID=5611487&ppg=115
 
@@ -28,7 +28,7 @@ https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docI
 **Neutron** networking allows comute and and storage nodes to communicate with each other THNK: NEutron Star Networking
 
 
--Management Modules-
+**_Management Modules_**
 
 **Horizon** is a GUI dashboard and is widely deployed management mobule - keyword DASHBOARD 
 
@@ -40,15 +40,15 @@ Ironic - provisioning tool for baremetal installs The Ironic module is forked fr
 
 **Congress** is a policy management framework for the openstack environment
 
--Securtity modules-
 
+**_Securtity Modules_**
 
 **Barbican** should be used to imrove the storage and management of secure authentication information. Works with Keystone authentication to manage internal application secuurty by behaving as a key manager.
 
 **Murano** prodives a white list reposity of applications
 
 
--Service Modules-
+**_Service Modules_**
 
 **Trove** 
 
