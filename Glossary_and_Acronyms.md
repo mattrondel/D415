@@ -37,10 +37,12 @@ Google quick definition - Common VNFs include virtualized routers, firewalls, WA
 
 
 
-##	NFV vs VNF
+##	NFV vs VNF ##
 NFV converts network processes themselves into software applications, while SDN virtualizes the management of networks so you can gain features like application-based traffic prioritization.
 
-An SDN can be considered a series of networking entites such as switches, routers and firewalls that are deployed in a highly automated manner.
+An** SDN** can be considered a series of networking entites such as switches, routers and firewalls that are deployed in a highly automated manner.
+
+**NFV** is the process of moving services like load balancing, firewalls an intrusion prevention systems away from dedicated hardware
 
 (According to Red Hat) - these are not dependandt on each other but have similaries such as they both rely on virtualization and network abstration
 SDN separates network forwarding functions from network control functions with the goal of creating a network that is centrally manageable and programmable. NFV abstracts network functions from hardware. NFV supports SDN by providing the infrastructure on which SDN software can run. 
