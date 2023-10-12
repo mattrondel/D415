@@ -50,6 +50,12 @@ NFV and SDN can be used together, depending on what you want to accomplish, and 
 ###	AAA vs RBAC 
 Authentication, authorization, and accounting (AAA) is a term for a framework for controlling access to computer resources, enforcing policies and auditing usage. RBAC (Role Based Access Control) is a way that dictates how a subject can access objects.
 
+RBAC - RBAC - Role Based Access Control is used to create differentiated access based on entitlement to administer a network device or controller
+
+Note: There ia second AAA: Abstration Automation and Adjustment
+https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docID=5611487&ppg=32
+
+
 ### VNFM 
 
 ### VNFI 
@@ -65,6 +71,19 @@ Authentication, authorization, and accounting (AAA) is a term for a framework fo
 
 •	CVSS is an open-source framework for identifying and defining software vulnerabilities.
 
+
+### SDS
+Software Defined storage - common charaterists of SDS products include the ability to aggregatee storage resouces, scale out the system across a server cluster, manage the shared storage pool and storage services though a single administrative interface and set polices to control storage features and functionality
+
+### SDDC
+Software-Defined Data Centers
+often reffered to as a data center where al infrastructure is virtualized and delivered as a service. Control of the data center is fully automated by software
+
+### Software defined power SDP
+https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docID=5611487&ppg=34
+
+
+
 ### Network Automation facts
 Ansible – written in python
 
@@ -74,9 +93,6 @@ Ansible – written in python
 
 Bonus: not mentioned in material
 NFVI
-
-
-RBAC - Role Based Access Control is used to create differentiated access based on entitlement to administer a network device or controller?
 
 Service chaining - multiple VNFs map together in a process called service chaining for seamless fully functional communication services 
 
