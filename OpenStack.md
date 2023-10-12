@@ -18,7 +18,7 @@ https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docI
 ### Nova 
 Compute module used to create and delete compute instances
 
-###Glance
+### Glance
 Synchronizes and maintains VM images across the compute cluster. Virtual machine image management THINK: Virtual Machine Images at a Glance
 
 **Keystone** authetication for accessing all of openStacks services
