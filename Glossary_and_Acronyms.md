@@ -35,7 +35,7 @@ Google quick definition - Common VNFs include virtualized routers, firewalls, WA
 
 ### Questions to address:
 
-**•	NFV vs VNF
+**	NFV vs VNF
 NFV converts network processes themselves into software applications, while SDN virtualizes the management of networks so you can gain features like application-based traffic prioritization.
 
 (According to Red Hat) - these are not dependandt on each other but have similaries such as they both rely on virtualization and network abstration
@@ -43,11 +43,11 @@ SDN separates network forwarding functions from network control functions with t
 
 NFV and SDN can be used together, depending on what you want to accomplish, and both use commodity hardware. With NFV and SDN, you can create a network architecture that is more flexible, programmable, and uses resources efficiently.
 
-•	Benefits and risks of SDN
+###	Benefits and risks of SDN
 
-•	How are NFV and SDNs related?
+###	How are NFV and SDNs related?
 
-•	AAA vs RBAC - Authentication, authorization, and accounting (AAA) is a term for a framework for controlling access to computer resources, enforcing policies and auditing usage. RBAC (Role Based Access Control) is a way that dictates how a subject can access objects.
+###	AAA vs RBAC - Authentication, authorization, and accounting (AAA) is a term for a framework for controlling access to computer resources, enforcing policies and auditing usage. RBAC (Role Based Access Control) is a way that dictates how a subject can access objects.
 
 ### VNFM 
 
