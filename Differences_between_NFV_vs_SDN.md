@@ -1,3 +1,6 @@
+see Glossary_and_Acronyms.md
+
+
 # Differences_between_NFV_vs_SDN
 
 ## NFV 
