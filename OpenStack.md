@@ -13,7 +13,7 @@ https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docI
 
 
 
-**_Core Modules_**
+### Core Modules
 
 **Nova** Compute module used to create and delete compute instances
 
