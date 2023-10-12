@@ -76,6 +76,8 @@ Bonus: not mentioned in material
 NFVI
 
 
+RBAC - Role Based Access Control is used to create differentiated access based on entitlement to administer a network device or controller?
+
 Service chaining - multiple VNFs map together in a process called service chaining for seamless fully functional communication services 
 
 ## Attacks and Exploitation 
