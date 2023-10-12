@@ -34,7 +34,7 @@ Synchronizes and maintains VM images across the compute cluster. Virtual machine
  networking allows comute and and storage nodes to communicate with each other THNK: NEutron Star Networking
 
 
-### Management Modules 
+## Management Modules 
 
 ### Horizon
 A GUI dashboard and is widely deployed management mobule - keyword DASHBOARD 
@@ -50,7 +50,7 @@ Provisioning tool for baremetal installs The Ironic module is forked from the No
 A policy management framework for the openstack environment
 
 
-### Securtity Modules 
+## Securtity Modules 
 
 ### Barbican
  should be used to imrove the storage and management of secure authentication information. Works with Keystone authentication to manage internal application secuurty by behaving as a key manager.
@@ -59,7 +59,7 @@ A policy management framework for the openstack environment
  prodives a white list reposity of applications
 
 
-### Service Modules 
+## Service Modules 
 
 ### Trove
  its a ditributed database service and enables users to deploy retaional and non-relational database engines
