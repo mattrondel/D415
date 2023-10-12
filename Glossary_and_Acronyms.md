@@ -47,7 +47,8 @@ NFV and SDN can be used together, depending on what you want to accomplish, and 
 
 ###	How are NFV and SDNs related?
 
-###	AAA vs RBAC - Authentication, authorization, and accounting (AAA) is a term for a framework for controlling access to computer resources, enforcing policies and auditing usage. RBAC (Role Based Access Control) is a way that dictates how a subject can access objects.
+###	AAA vs RBAC 
+Authentication, authorization, and accounting (AAA) is a term for a framework for controlling access to computer resources, enforcing policies and auditing usage. RBAC (Role Based Access Control) is a way that dictates how a subject can access objects.
 
 ### VNFM 
 
