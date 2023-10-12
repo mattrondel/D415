@@ -15,7 +15,7 @@ https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docI
 
 ### Core Modules
 
-## Nova Compute module used to create and delete compute instances
+### Nova Compute module used to create and delete compute instances
 
 **Glance** Synchronizes and maintains VM images across the compute cluster. Virtual machine image management THINK: Virtual Machine Images at a Glance
 
