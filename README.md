@@ -49,6 +49,11 @@ https://orangematter.solarwinds.com/2020/10/19/how-network-telemetry-is-becoming
 ------------------
 ## Unsorted Notes:
 
+## Overlay networks
+
+Napster is an example of one of these, overlay networks are called this becuase thier node run on top of the internet.
+In the context of SDNs an overlay uses virtual links to connect to the underlying physical network (eg switches and router). As a convention , we use virtual networks instead of using overlay networks in the context of SDN technologies.
+
 Secure Virtual Network configuration for VM Protection
 
 This is to secure vm workloads
