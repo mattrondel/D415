@@ -22,6 +22,9 @@ For example, if a customer requests a new network function, they can spin up a n
 Know any examples? – the CSR vm we have is this.
 Virtualing network functions
 
+Virtualization offers carriers the ability to offer pay-as-you-go services without huge up-front investment. Avoiding proprietary hardware empowers adminisators with a strealined provisioning process
+
+If a service providers customeer requests a new funtion for example, NFV enabes the service prover to more easily add that service in the form of a VM without upgrading or buying new hardware.
 
 ### VNF 
 Virtual Network Functions
@@ -49,7 +52,8 @@ SDN separates network forwarding functions from network control functions with t
 
 NFV and SDN can be used together, depending on what you want to accomplish, and both use commodity hardware. With NFV and SDN, you can create a network architecture that is more flexible, programmable, and uses resources efficiently.
 
-
+## OPENFV
+Open Platform for NFV - a collaborative open-source platform that seeks to develop NFV and shape its evolution created by the linux foundation in 2014. It looks to reduce the time to market for NFV products and solutions.
 
 
 ###	Benefits and risks of SDN
