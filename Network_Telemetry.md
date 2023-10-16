@@ -6,13 +6,13 @@ Learning Objectives
 
 At the end of this unit, you will be able to do the following:
 
-define network telemetry data
+•	define network telemetry data
 
-identify network performance issues
+•	identify network performance issues
 
-define network availability issues
+•	define network availability issues
 
-examine network performance and availability issues by analyzing network telemetry data
+•	examine network performance and availability issues by analyzing network telemetry data
 
 
 
