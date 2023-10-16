@@ -66,6 +66,21 @@ https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docI
 
 
 ### VNFM 
+Virtual Network Functions Manager 
+Manages the life-cycle of a Virtual Network Fucntion (VNF)
+They are resposible for basic lifecyle management operations such as CRUD platform aware NFV load optimization, health monitoring, auto-scaling and VNF configuration management operation
+
+### NFVO 
+NFV Orchestrator is resposible for VIM resource check and allocation, SFC management using VNF forwarding graph descriptor, VNF placement policy, network service deployment using decomposed VNFs
+
+### VIM resource check and allocation
+Virtualized Infrastructure Manager 
+this does what: 
+
+### WICM
+Wan Infrastructure connection manager 
+this does what: 
+
 
 ### VNFI 
 (According to Red Hat) - Consists of the the infratructure componets - compute, storage, networking - on a platform to support software such as a hypervisor like KVM or a container management platfor, needed to run network apps.
