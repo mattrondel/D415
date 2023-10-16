@@ -10,17 +10,17 @@ See Cource chatter > George M Notes
 
 This course provides guidance to help you demonstrate the following competencies:
 
-  **4108.1.1** Articulates Use Cases for Software-Defined Networking 
-  The learner articulates use cases and opportunities for software-defined networking.
-  
-  **4108.1.2** Identifies Software-Defined Networking Concepts and Services
-  The learner identifies software-defined networking concepts and services used in the development of network infrastructures. 
-  
-  **4108.1.3** Determines How to Maintain Secure Networks 
-  The learner determines how to maintain secure networks with software-defined networking principles.  
-  
-  **4108.1.4** Determines How to Maintain Networks with Monitoring 
-  The learner determines how to maintain networks with centralized monitoring and troubleshooting processes. 
+   **4108.1.1** Articulates Use Cases for Software-Defined Networking 
+   The learner articulates use cases and opportunities for software-defined networking.
+   
+   **4108.1.2** Identifies Software-Defined Networking Concepts and Services
+   The learner identifies software-defined networking concepts and services used in the development of network infrastructures. 
+   
+   **4108.1.3** Determines How to Maintain Secure Networks 
+   The learner determines how to maintain secure networks with software-defined networking principles.  
+   
+   **4108.1.4** Determines How to Maintain Networks with Monitoring 
+   The learner determines how to maintain networks with centralized monitoring and troubleshooting processes. 
 
 !
 !
