@@ -2,6 +2,8 @@ D415
 
 Flash cards:  https://ankiweb.net/decks
 
+Music https://www.youtube.com/watch?v=VMAPTo7RVCo
+
 SDN WGU Course notes
 
 ## Learning Opportunities
