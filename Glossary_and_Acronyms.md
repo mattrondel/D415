@@ -73,7 +73,7 @@ They are resposible for basic lifecyle management operations such as CRUD platfo
 ### NFVO 
 NFV Orchestrator is resposible for VIM resource check and allocation, SFC management using VNF forwarding graph descriptor, VNF placement policy, network service deployment using decomposed VNFs
 
-### VIM resource check and allocation
+### VIM 
 Virtualized Infrastructure Manager 
 this does what: 
 
@@ -81,6 +81,10 @@ this does what:
 Wan Infrastructure connection manager 
 this does what: 
 
+### T-NOVA
+
+### TeNOR
+A store of all published VNFs. The design goal for TeNOR is lifecycle management of distributed and virtualized NFVI
 
 ### VNFI 
 (According to Red Hat) - Consists of the the infratructure componets - compute, storage, networking - on a platform to support software such as a hypervisor like KVM or a container management platfor, needed to run network apps.
