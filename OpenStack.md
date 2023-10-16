@@ -1,5 +1,7 @@
 OpenStack
 
+open-source cloud computing platform , joint project of Rackspace hosting and NASA
+
 https://www.geeksforgeeks.org/introduction-to-openstack/
 
 https://www.techtarget.com/searchstorage/tip/Everything-you-need-to-know-about-OpenStack-modules
