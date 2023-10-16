@@ -32,3 +32,8 @@ Netflow v9 supports IPv6 and MPLS as well as teplate based results
 
 Internet Protocol Flow Information eXport (IPFIX), based on NetFlow v9, is an IETF standard specification that consolidates many of the capabilities of NetFlow. IPFIX is backward-compatible with NetFlow, but extends it with numerous additional data types as well as capabilities such as variable length field support, allowing for significant flexibility and extensibility. 
 IPFIX also adds in support for SCTP as the underlying transport, enabling congestion avoidance and bandwidth optimization. IPFIX enjoys wide acceptance in the industry, with support from most major networking vendors.
+
+
+### Cloud Logs
+
+Cloud providers such as AWS, Azure and Google Cloud offer their own versions of telemetry in the form of VPC flow logs, which provide similar information as NetFlow records, but in a proprietary format.
