@@ -51,7 +51,7 @@ https://orangematter.solarwinds.com/2020/10/19/how-network-telemetry-is-becoming
 ------------------
 ## Unsorted Notes:
 
-In Open SDN it uses open gflow
+In Open SDN it uses open flow its managed by the ONF or Open Network Foundation
 
 ## Overlay networks
 
