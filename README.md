@@ -40,6 +40,8 @@ or https://www.linkedin.com/learning/cisco-network-security-core-security-concep
 
 https://lrps.wgu.edu/provision/308882281
 
+or https://www.linkedin.com/learning/learning-network-troubleshooting-2021/need-to-troubleshoot-your-network?u=2045532
+
 
 Broken link
 •	“Network Telemetry Is Becoming the New Normal” from GCN
