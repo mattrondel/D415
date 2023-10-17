@@ -19,10 +19,9 @@ https://lrps.wgu.edu/provision/303933736
 •	“SDN and SD-WAN Fundamentals: Intro to Software-defined Networking (1:12:00)” from Pluralsight (Sean Douglas)
 https://lrps.wgu.edu/provision/303938265
 
-
+or https://app.pluralsight.com/library/courses/sdn-sd-wan-fundamentals-software-defined-networking-intro/table-of-contents%E2%80%8B
 
 Watch the following video to strengthen your knowledge:
-
 
 "5 SDN Concepts You’ve Gotta Know" (1:56:37) from Kevin Wallace Training, LLC
 
