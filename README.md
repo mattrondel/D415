@@ -51,6 +51,8 @@ https://orangematter.solarwinds.com/2020/10/19/how-network-telemetry-is-becoming
 ------------------
 ## Unsorted Notes:
 
+In Open SDN it uses open gflow
+
 ## Overlay networks
 
 Napster is an example of one of these, overlay networks are called this becuase thier node run on top of the internet.
