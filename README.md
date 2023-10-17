@@ -16,6 +16,8 @@ https://lrps.wgu.edu/provision/381720354
 •	“Introduction to Cisco Automation and Software Defined Networks (1:24:00)” from Pluralsight (Ross Bagurdes)
 https://lrps.wgu.edu/provision/303933736
 
+or https://app.pluralsight.com/library/courses/introduction-cisco-automation-software-defined-networks/table-of-contents%E2%80%8B
+
 •	“SDN and SD-WAN Fundamentals: Intro to Software-defined Networking (1:12:00)” from Pluralsight (Sean Douglas)
 https://lrps.wgu.edu/provision/303938265
 
