@@ -79,7 +79,8 @@ NFV Orchestrator is resposible for VIM resource check and allocation, SFC manage
 
 ### NFV-MANO 
 Network Function Virtualization Management and Orchestration
-consists of all functional blocks, data repositories, reference points, and interfaces that are used for managing and orchestrating VNFs and the NFVI
+
+Consists of all functional blocks, data repositories, reference points, and interfaces that are used for managing and orchestrating VNFs and the NFVI
 
 
 ### VIM 
