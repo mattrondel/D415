@@ -34,6 +34,8 @@ or https://www.youtube.com/watch?v=RdCLmakGZL0
 
 https://lrps.wgu.edu/provision/308882104
 
+or https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/defending-the-network-hiya?u=2045532
+
 “Learning Network Troubleshooting” (2:01) from LinkedIn Learning
 
 https://lrps.wgu.edu/provision/308882281
