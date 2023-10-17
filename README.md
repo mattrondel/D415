@@ -28,6 +28,8 @@ Watch the following video to strengthen your knowledge:
 
 https://lrps.wgu.edu/provision/308889815
 
+or https://www.youtube.com/watch?v=RdCLmakGZL0
+
 “Cisco Network Security: Core Security Concepts” (1:46) from LinkedIn Learning
 
 https://lrps.wgu.edu/provision/308882104
