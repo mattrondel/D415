@@ -47,7 +47,8 @@ Synchronizes and maintains VM images across the compute cluster. Virtual machine
 ### Horizon
 A GUI dashboard and is widely deployed management mobule - keyword DASHBOARD 
 
-### Heat helps expediate orchestration of applications across muliple compute instances by using templates
+### Heat 
+helps expediate orchestration of applications across muliple compute instances by using templates similar to CloudFormation
 
 ### Celiometer monitors the NFVI and helps identify bottlenecks and resource optimization opportunites 
 
