@@ -52,6 +52,21 @@ Broken link
 
 https://orangematter.solarwinds.com/2020/10/19/how-network-telemetry-is-becoming-the-new-normal/
 
+Watch the following videos to strengthen your knowledge:
+
+“Make SDN Real and OpenFlow Theory, Part 1” (10:34) from LinkedIn Learning
+
+https://lrps.wgu.edu/provision/308881078
+
+or https://www.linkedin.com/learning/practical-software-defined-networking-6-the-openflow-protocol/make-sdn-real-and-openflow-theory-part-1-openflow-controllers-and-nsx?u=2045532
+
+“OpenDaylight, Cisco OpenFlow app and OVS” (15:13) from LinkedIn Learning
+
+https://lrps.wgu.edu/provision/308881562
+
+or https://www.linkedin.com/learning/practical-software-defined-networking-1-sdn-and-openflow-quick-start/opendaylight-cisco-openflow-app-and-ovs?u=2045532
+
+
 ## Course Chatter notes:
 
 "Passed this course a few days ago with about 2 weeks of studying. As others have said STRONGLY recommend watching the 3 videos listed in the course material. The book isn't too long of a read but I do recommend reading that as well to supplement the videos. Know the acronyms NFV, VNF, VNFM, VNFI, CVSS. I also recommend if you have not taken CCNA or have no background in network security(firewalls) brush up on those sections in the book. NIST 800-125B, NIST 800-53 were not explained deeply in the book but I googled on my own to get a better understanding."
