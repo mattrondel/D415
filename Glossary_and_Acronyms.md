@@ -97,9 +97,9 @@ this does what:
 A store of all published VNFs. The design goal for TeNOR is lifecycle management of distributed and virtualized NFVI
 
 ### VNFI 
-(According to Red Hat) - Consists of the the infratructure componets - compute, storage, networking - on a platform to support software such as a hypervisor like KVM or a container management platfor, needed to run network apps.
+(According to Red Hat) - Consists of the infrastructure components - compute, storage, networking - on a platform to support software such as a hypervisor like KVM or a container management platform, needed to run network apps.
 
-•	Virtual Network Functions infratructure
+• Virtual Network Functions infrastructure
 
 ### CVSS •	Free and open industry standard for assessing the severity of computer system security vulnerabilities
 
