@@ -66,6 +66,13 @@ https://lrps.wgu.edu/provision/308881562
 
 or https://www.linkedin.com/learning/practical-software-defined-networking-1-sdn-and-openflow-quick-start/opendaylight-cisco-openflow-app-and-ovs?u=2045532
 
+Watch the following video to strengthen your knowledge:
+
+“Cisco Network Security: Intrusion Detection and Prevention” (0:52) from LinkedIn Learning 
+
+https://lrps.wgu.edu/provision/308881903
+
+or https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/welcome?u=2045532
 
 ## Course Chatter notes:
 
