@@ -1,5 +1,9 @@
 OpenStack
 
+**OpenStack Wiki pages:**
+
+https://wiki.openstack.org/wiki/Main_Page
+
 open-source cloud computing platform , joint project of Rackspace hosting and NASA
 
 READ MORE
@@ -62,6 +66,8 @@ A policy management framework for the openstack environment
 ## Securtity Modules 
 
 ### Barbican
+
+Barbican is a REST API designed for the secure storage, provisioning and management of secrets such as passwords, encryption keys and X.509 Certificates. 
 
 Is the Key manager service it provides secure storage, provisioning and management of secret data, such as password, encryption keys, X509 Certificates and raw binary data
 
