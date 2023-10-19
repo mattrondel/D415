@@ -62,7 +62,10 @@ A policy management framework for the openstack environment
 ## Securtity Modules 
 
 ### Barbican
- should be used to imrove the storage and management of secure authentication information. Works with Keystone authentication to manage internal application secuurty by behaving as a key manager.
+
+Is the Key manager service it provides secure storage, provisioning and management of secret data, such as password, encryption keys, X509 Certificates and raw binary data
+
+Should be used to imrove the storage and management of secure authentication information. Works with Keystone authentication to manage internal application secuurty by behaving as a key manager.
 
 ### Murano
  prodives a white list reposity of applications
