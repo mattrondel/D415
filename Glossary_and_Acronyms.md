@@ -15,6 +15,8 @@ https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docI
 ### NFV - 
 Network functions virtualization 
 
+Invloves moving services like load balancing, firewalls, and intrusion prevention systems away from dedicated hardware into non-physical environment.
+
 (According to red Hat) With NFV, service providers can run network functions on standard hardware instead of dedicated hardware. Also, because network functions are virtualized, multiple functions can be run on a single server. NFV gives providers the flexibility to run VNFs across different servers or move them around as needed when demand changes. This flexibility lets service providers deliver services and apps faster. 
 
 For example, if a customer requests a new network function, they can spin up a new VM to handle that request. If the function is no longer needed, the VM can be decommissioned. This can also be a low-risk way to test the value of a potential new service.
