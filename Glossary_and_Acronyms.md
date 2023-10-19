@@ -17,6 +17,10 @@ Network functions virtualization
 
 Invloves moving services like load balancing, firewalls, and intrusion prevention systems away from dedicated hardware into non-physical environment.
 
+This moved network functions from stand-alone appliances to software running on any server
+
+Finacial benefits to carriers include the opportunity for pay-as-you-go without a large upfront investment
+
 (According to red Hat) With NFV, service providers can run network functions on standard hardware instead of dedicated hardware. Also, because network functions are virtualized, multiple functions can be run on a single server. NFV gives providers the flexibility to run VNFs across different servers or move them around as needed when demand changes. This flexibility lets service providers deliver services and apps faster. 
 
 For example, if a customer requests a new network function, they can spin up a new VM to handle that request. If the function is no longer needed, the VM can be decommissioned. This can also be a low-risk way to test the value of a potential new service.
@@ -52,7 +56,9 @@ An** SDN** can be considered a series of networking entites such as switches, ro
 (According to Red Hat) - these are not dependandt on each other but have similaries such as they both rely on virtualization and network abstration
 SDN separates network forwarding functions from network control functions with the goal of creating a network that is centrally manageable and programmable. NFV abstracts network functions from hardware. NFV supports SDN by providing the infrastructure on which SDN software can run. 
 
-NFV and SDN can be used together, depending on what you want to accomplish, and both use commodity hardware. With NFV and SDN, you can create a network architecture that is more flexible, programmable, and uses resources efficiently.
+NFV and SDN can be used together, depending on what you want to accomplish, and both use commodity hardware. With NFV and SDN, you can create a network architecture that is more flexible, programmable, and uses resources efficiently. 
+
+NVF and SDNs are related as they are two network infrastruture imrovement models that are mutually beneficial and often used together
 
 ## OPENFV
 Open Platform for NFV - a collaborative open-source platform that seeks to develop NFV and shape its evolution created by the linux foundation in 2014. It looks to reduce the time to market for NFV products and solutions.
