@@ -47,6 +47,9 @@ Google quick definition - Common VNFs include virtualized routers, firewalls, WA
 
 
 ##	NFV vs VNF ##
+
+VNF - Virtualized Network Functions
+
 NFV converts network processes themselves into software applications, while SDN virtualizes the management of networks so you can gain features like application-based traffic prioritization.
 
 An** SDN** can be considered a series of networking entites such as switches, routers and firewalls that are deployed in a highly automated manner.
@@ -109,7 +112,7 @@ this does what:
 ### TeNOR
 A store of all published VNFs. The design goal for TeNOR is lifecycle management of distributed and virtualized NFVI
 
-### VNFI 
+### VNFi 
 
 The entirety of the comput, storage, network resources that are needed to run virtual network applications. 
 
