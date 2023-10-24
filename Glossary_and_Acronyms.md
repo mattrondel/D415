@@ -53,7 +53,7 @@ VNF - Virtualized Network Functions
 
 NFV converts network processes themselves into software applications, while SDN virtualizes the management of networks so you can gain features like application-based traffic prioritization.
 
-An** SDN** can be considered a series of networking entites such as switches, routers and firewalls that are deployed in a highly automated manner.
+** SDN** can be considered a series of networking entites such as switches, routers and firewalls that are deployed in a highly automated manner.
 
 **NFV** is the process of moving services like load balancing, firewalls an intrusion prevention systems away from dedicated hardware
 
@@ -80,6 +80,8 @@ Architecture - Seprates control plane (decision-making) from the data plane (pac
 
 Functionality -
 
+Use Case - 
+
 ##NFV
 
 Focus - Primary focus is on virtualizing and consolidating netwrok functions, such as firewalls, load balancers, and routers
@@ -88,6 +90,7 @@ Architeture - NFV involves virtualizing network functions and running them on st
 
 Functionality - NFV enables greater flexability in deploying and manageing network functions. VNFs can 
 
+Use Case - used to optimize network infratructure, reduce hardware dependance, and streamline network service deployment. ISPs telecom operators, and organizations with complex network requirements.
 
 ###	AAA vs RBAC 
 Authentication, authorization, and accounting (AAA) is a term for a framework for controlling access to computer resources, enforcing policies and auditing usage. RBAC (Role Based Access Control) is a way that dictates how a subject can access objects.
