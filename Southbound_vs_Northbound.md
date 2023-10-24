@@ -6,7 +6,7 @@ API is software talking to software
 
 the controller talks to both north and south APIs
 
-## Northbound
+### Northbound
 
 Sometimes called NBI
 
@@ -25,10 +25,7 @@ b.	Northbound APIs provide a way for external applications, services, or orchest
 c.	Examples of protocols and technologies commonly used for northbound APIs include RESTful APIs, WebSockets, and custom application-specific APIs.
 
 
-
-
-
-Southbound
+### Southbound
 
 Sometimes called SBI  
 
