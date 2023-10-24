@@ -1,5 +1,8 @@
 ## Southbound vs Northbound
 
+Think of the OSI lay with the highest number at the top with A being application which is the top or north of the stack
+
+API is software talking to software
 
 ## Northbound
 
