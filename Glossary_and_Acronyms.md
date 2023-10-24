@@ -106,6 +106,8 @@ A store of all published VNFs. The design goal for TeNOR is lifecycle management
 
 ### VNFI 
 
+The entirety of the comput, storage, network resources that are needed to run virtual network applications. 
+
 Virtual Network Function Infrastructure refers to the virtualized resources required to support the execution of Virtual Network Functions (VNFs). This infrastructure includes the compute, storage, and networking resources that VNFs need to operate effectivley.
 
 (According to Red Hat) - Consists of the infrastructure components - compute, storage, networking - on a platform to support software such as a hypervisor like KVM or a container management platform, needed to run network apps.
