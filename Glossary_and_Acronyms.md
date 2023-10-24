@@ -70,7 +70,24 @@ Open Platform for NFV - a collaborative open-source platform that seeks to devel
 
 ###	Benefits and risks of SDN
 
-###	How are NFV and SDNs related?
+###	How are NFV and SDNs related? or SDN vs NFV
+
+##SDN
+
+Focus - SDN focuses on network management
+
+Architecture - Seprates control plane (decision-making) from the data plane (packet forwarding)
+
+Functionality -
+
+##NFV
+
+Focus - Primary focus is on virtualizing and consolidating netwrok functions, such as firewalls, load balancers, and routers
+
+Architeture - NFV involves virtualizing network functions and running them on standard servers reducing the need for dedicatedhardware appliances
+
+Functionality - NFV enables greater flexability in deploying and manageing network functions. VNFs can 
+
 
 ###	AAA vs RBAC 
 Authentication, authorization, and accounting (AAA) is a term for a framework for controlling access to computer resources, enforcing policies and auditing usage. RBAC (Role Based Access Control) is a way that dictates how a subject can access objects.
