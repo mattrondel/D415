@@ -32,8 +32,9 @@ Virtualization offers carriers the ability to offer pay-as-you-go services witho
 
 If a service providers customeer requests a new funtion for example, NFV enabes the service prover to more easily add that service in the form of a VM without upgrading or buying new hardware.
 
-### VNF 
-Virtual Network Functions
+### VNFs 
+Virtual Network Functions - software applications that deliver network fucntions such as security, direcotry services, and routing
+
 **What this means** a software-based implementation of a network function (duh it’s in the name) that would be traditionally preformed by dedicated hardware appliances. VNF run on virtualized infrastructure and can deployed, managed and scaled more dynamically compared to traditional hardware-based solutions.
 (According to Red Hat) - are software applications that deliver network functions such as file sharing, directory services and IP configurations
 
