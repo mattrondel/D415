@@ -86,7 +86,12 @@ They are resposible for basic lifecyle management operations such as CRUD platfo
 NFV Orchestrator is resposible for VIM resource check and allocation, SFC management using VNF forwarding graph descriptor, VNF placement policy, network service deployment using decomposed VNFs
 
 ### NFV-MANO 
+
 Network Function Virtualization Management and Orchestration
+
+Sometimgs called MANO
+
+stands for Management Automation and Network Automation
 
 Consists of all functional blocks, data repositories, reference points, and interfaces that are used for managing and orchestrating VNFs and the NFVI
 
