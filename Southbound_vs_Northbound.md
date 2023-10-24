@@ -14,6 +14,17 @@ Whats its purpose?
 
 Application and Control layers are connected to the Norhtbound API
 
+**Notes**
+
+2.	Northbound APIs:
+
+a.	Northbound APIs, on the other hand, refer to the interfaces and protocols used to communicate between the control plane and higher-level applications or management systems. These APIs allow applications and management systems to interact with and control the underlying network infrastructure.
+
+b.	Northbound APIs provide a way for external applications, services, or orchestrators to request network services, retrieve network status, and manipulate network behavior without needing to have detailed knowledge of the underlying network's internal workings. These APIs enable the creation of network applications, network automation, and integration of networking functions into larger software ecosystems.
+
+c.	Examples of protocols and technologies commonly used for northbound APIs include RESTful APIs, WebSockets, and custom application-specific APIs.
+
+
 
 
 
