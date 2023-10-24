@@ -45,7 +45,7 @@ Google quick definition - Common VNFs include virtualized routers, firewalls, WA
 
 ### Questions to address:
 
-##	NFV vs VNF ##
+**NFV vs VNF
 
 Relationship between SDN and NFV:
 
@@ -61,7 +61,7 @@ In summary, SDN focuses on network control and management, while NFV focuses on 
 
 NFV converts network processes themselves into software applications, while SDN virtualizes the management of networks so you can gain features like application-based traffic prioritization.
 
-** SDN** can be considered a series of networking entites such as switches, routers and firewalls that are deployed in a highly automated manner.
+**SDN** can be considered a series of networking entites such as switches, routers and firewalls that are deployed in a highly automated manner.
 
 **NFV** is the process of moving services like load balancing, firewalls an intrusion prevention systems away from dedicated hardware
 
@@ -72,7 +72,7 @@ NFV and SDN can be used together, depending on what you want to accomplish, and 
 
 NVF and SDNs are related as they are two network infrastruture imrovement models that are mutually beneficial and often used together
 
-## OPENFV
+** OPENFV
 Open Platform for NFV - a collaborative open-source platform that seeks to develop NFV and shape its evolution created by the linux foundation in 2014. It looks to reduce the time to market for NFV products and solutions.
 
 *** VNFM *** - Virtual Network Function Manager: A Virtual Network Function Manager (VNFM) is responsible for managing the lifecycle of Virtual Network Functions (VNFs). It handles tasks such as VNF deployment, scaling, updating, and termination. VNFM interacts with the NFV infrastructure to ensure that VNFs are properly instantiated and configured.
@@ -81,7 +81,7 @@ Open Platform for NFV - a collaborative open-source platform that seeks to devel
 
 ###	How are NFV and SDNs related? or SDN vs NFV
 
-##SDN
+**SDN
 
 Focus - SDN focuses on network management
 
