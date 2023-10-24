@@ -35,6 +35,10 @@ The API allows the controller to communicate with the OpenFlow switch and networ
 
 From the control controller to the device the southbound api its used 2 protocols NETCONF and OpenFlow
 
+OpenFlow is an API that gives direct access to and management of the forwarding plane on virtual and physical switches and routers
+
+Netconf - network management prototocol used to install, manipulate and delte the configuration of network devices via RPC messagges are encoded in XML
+
 **Notes**
 
 1.	Southbound APIs:
