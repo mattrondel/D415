@@ -17,7 +17,7 @@ Application and Control layers are connected to the Norhtbound API
 
 
 
-**Southbound**
+Southbound
 
 Sometimes called SBI  
 
@@ -27,7 +27,7 @@ The API allows the controller to communicate with the OpenFlow switch and networ
 
 From the control controller to the device the southbound api its used 2 protocols NETCONF and OpenFlow
 
-##Notes 
+**Notes**
 
 1.	Southbound APIs:
 
