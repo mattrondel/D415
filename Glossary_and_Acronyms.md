@@ -137,7 +137,10 @@ Software Defined storage - common charaterists of SDS products include the abili
 
 ### SDDC
 Software-Defined Data Centers
-often reffered to as a data center where al infrastructure is virtualized and delivered as a service. Control of the data center is fully automated by software
+
+This combines SDN and virtualization, the SDDC is a data storage facility where all infrastruture are virtualized and devivered as a service
+
+Often reffered to as a data center where al infrastructure is virtualized and delivered as a service. Control of the data center is fully automated by software
 
 ### Software defined power SDP
 https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docID=5611487&ppg=34
