@@ -45,9 +45,17 @@ Google quick definition - Common VNFs include virtualized routers, firewalls, WA
 
 ### Questions to address:
 
-
-
 ##	NFV vs VNF ##
+
+Relationship between SDN and NFV:
+
+•	While SDN and NFV address different aspects of networking, they are often complementary. SDN can provide the dynamic control and orchestration needed to manage and direct VNFs in NFV deployments.
+
+•	SDN can assist NFV by enabling efficient traffic steering and load balancing for VNFs.
+
+•	In some cases, the terms SDN and NFV are used together, such as SDN-enabled NFV, to emphasize their collaborative nature.
+
+In summary, SDN focuses on network control and management, while NFV focuses on virtualizing and consolidating network functions. Both concepts contribute to the evolution of modern networking by providing more flexible, scalable, and efficient solutions.
 
 VNF - Virtualized Network Functions
 
@@ -58,7 +66,7 @@ NFV converts network processes themselves into software applications, while SDN 
 **NFV** is the process of moving services like load balancing, firewalls an intrusion prevention systems away from dedicated hardware
 
 (According to Red Hat) - these are not dependandt on each other but have similaries such as they both rely on virtualization and network abstration
-SDN separates network forwarding functions from network control functions with the goal of creating a network that is centrally manageable and programmable. NFV abstracts network functions from hardware. NFV supports SDN by providing the infrastructure on which SDN software can run. 
+SDN separates network forwarding functions from network control functions with the goal of creating a network that is centrally manageable and programmable. NFV abstracts network functions from hardware. NFV supports •	SDN by providing the infrastructure on which SDN software can run. 
 
 NFV and SDN can be used together, depending on what you want to accomplish, and both use commodity hardware. With NFV and SDN, you can create a network architecture that is more flexible, programmable, and uses resources efficiently. 
 
