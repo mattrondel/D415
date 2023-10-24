@@ -45,7 +45,7 @@ Google quick definition - Common VNFs include virtualized routers, firewalls, WA
 
 ### Questions to address:
 
-**NFV vs VNF
+**NFV vs VNF**
 
 Relationship between SDN and NFV:
 
