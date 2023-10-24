@@ -4,6 +4,8 @@ Think of the OSI lay with the highest number at the top with A being application
 
 API is software talking to software
 
+the controller talks to both north and south APIs
+
 ## Northbound
 
 Sometimes called NBI
