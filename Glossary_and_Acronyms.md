@@ -91,7 +91,7 @@ Network Function Virtualization Management and Orchestration
 
 Sometimgs called MANO
 
-stands for Management Automation and Network Automation
+Stands for Management Automation and Network Automation - This provides the tools for managing the NFV infrastruture and for provisioning new VNFs
 
 Consists of all functional blocks, data repositories, reference points, and interfaces that are used for managing and orchestrating VNFs and the NFVI
 
