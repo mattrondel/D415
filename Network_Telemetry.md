@@ -22,7 +22,7 @@ SNMP
 Polling 
 ([SNMP vs Telemetry](https://cdn.ttgtmedia.com/rms/onlineImages/networking-telemetry_vs_snmp-f.png?raw=true) "SNMP vs Telemetry")
 
-![SNMP vs Telemetry]([https://cdn.ttgtmedia.com/rms/onlineImages/networking-telemetry_vs_snmp-f.png?raw=true](https://cdn.ttgtmedia.com/rms/onlineImages/networking-telemetry_vs_snmp-f.png))
+![My Remote Image](https://cdn.ttgtmedia.com/rms/onlineImages/networking-telemetry_vs_snmp-f.png)
 
 ### NetFlow
 
