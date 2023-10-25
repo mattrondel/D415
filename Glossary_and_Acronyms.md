@@ -179,7 +179,19 @@ https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docI
 ### Network Automation facts
 Ansible – written in python
 
+### IDS Intrusion Dection System
 
+Sits out of band and passivley monitors which is mirrored (probalbly a SPAN port). Relys on outside systems to stop an attack 
+
+Can be host or network based. Host-based (HIDS) monitors a single host while network (NIDS) well minitors the entire network
+
+NIDS - can reach a limit when excessive growth and increased bandwidth usage influences the abilit to capture and analyze all traffic. To adjust additional sensors are placed throughout the network, which increases overall costs. NIDS cannot monitor encrypted traffic such as ssl or ssh 
+
+### IPS Intrusion Prevention System
+
+Sits in band
+
+IDS and IPS are sensors that monitor for unusual or suspicious data or activities in a network and provide an extra layer of protection
 
 ### SDLC
 
