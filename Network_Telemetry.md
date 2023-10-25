@@ -22,6 +22,8 @@ SNMP
 Polling 
 ([SNMP vs Telemetry](https://cdn.ttgtmedia.com/rms/onlineImages/networking-telemetry_vs_snmp-f.png?raw=true) "SNMP vs Telemetry")
 
+![SNMP vs Telemetry]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://cdn.ttgtmedia.com/rms/onlineImages/networking-telemetry_vs_snmp-f.png))
+
 ### NetFlow
 
 Netflow v5 is most popular
