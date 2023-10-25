@@ -1,5 +1,7 @@
 *Network Telemetry*
 
+examples of netflow https://www.splunk.com/en_us/blog/learn/network-telemetry.html
+
 article behind email wall
 https://www.techtarget.com/searchnetworking/answer/Telemetry-vs-SNMP-Is-one-better-for-network-management
 
