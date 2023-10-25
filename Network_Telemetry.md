@@ -20,7 +20,7 @@ At the end of this unit, you will be able to do the following:
 SNMP
 
 Polling 
-([http://full/path/to/img.jpg](https://cdn.ttgtmedia.com/rms/onlineImages/networking-telemetry_vs_snmp-f.png) "SNMP vs Telemetry")
+([SNMP vs Telemetry](https://cdn.ttgtmedia.com/rms/onlineImages/networking-telemetry_vs_snmp-f.png) "SNMP vs Telemetry")
 
 ### NetFlow
 
