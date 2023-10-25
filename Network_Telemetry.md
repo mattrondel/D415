@@ -19,9 +19,6 @@ At the end of this unit, you will be able to do the following:
 
 SNMP
 
-Polling 
-([SNMP vs Telemetry](https://cdn.ttgtmedia.com/rms/onlineImages/networking-telemetry_vs_snmp-f.png?raw=true) "SNMP vs Telemetry")
-
 ![My Remote Image](https://cdn.ttgtmedia.com/rms/onlineImages/networking-telemetry_vs_snmp-f.png)
 
 ### NetFlow
