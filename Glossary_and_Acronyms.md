@@ -193,6 +193,15 @@ Sits in band
 
 IDS and IPS are sensors that monitor for unusual or suspicious data or activities in a network and provide an extra layer of protection
 
+IDS/IPS Senors use the following:
+  Pattern-based detection
+  
+  Anomaly-based detection
+  
+  Policy-based detection
+  
+  Honey pot-based detection
+
 ### SDLC
 
 Bonus: not mentioned in material
