@@ -15,7 +15,12 @@ At the end of this unit, you will be able to do the following:
 •	examine network performance and availability issues by analyzing network telemetry data
 
 
+### SNMP vs Telemetry
 
+SNMP
+
+Polling 
+([http://full/path/to/img.jpg](https://cdn.ttgtmedia.com/rms/onlineImages/networking-telemetry_vs_snmp-f.png) "SNMP vs Telemetry")
 
 ### NetFlow
 
