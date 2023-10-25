@@ -1,5 +1,9 @@
 *Network Telemetry*
 
+article behind email wall
+https://www.techtarget.com/searchnetworking/answer/Telemetry-vs-SNMP-Is-one-better-for-network-management
+
+
 https://cgp-oex.wgu.edu/courses/course-v1:WGUx+OEX0110+v01/courseware/6635185e8f3c4ab99fd1a1b98ceb67db/7410146b8c304748a12f5edd454689b7/2?activate_block_id=block-v1:WGUx+OEX0110+v01+type@vertical+block@2e5308409147451fa2a71956bc697df7
 
 Learning Objectives
