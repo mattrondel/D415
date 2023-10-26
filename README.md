@@ -52,6 +52,14 @@ Broken link
 
 https://orangematter.solarwinds.com/2020/10/19/how-network-telemetry-is-becoming-the-new-normal/
 
+Other Broken link:
+
+Open Compute Project. (2018, March 21). OCPUS18 - An evolution of network telemetry [Video]. YouTube.
+
+https://www.youtube.com/watch?v=t_rrwTHPbXQ
+
+
+
 Watch the following videos to strengthen your knowledge:
 
 “Make SDN Real and OpenFlow Theory, Part 1” (10:34) from LinkedIn Learning
