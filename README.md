@@ -213,3 +213,20 @@ VMware vSAN is an enterprise storage virtualization software that supports hyper
 
 
 Service function chaining
+
+## SDN
+Hybrid SDN
+The SDN controller acts as intermediary between the administrator and network device 
+Software-defined networking separates the control plane and the data plane while still allowing end nodes, network devices to keep some of their control plane capabilities.
+SDN gives admins centralized command and control while allowing administrators to manage the single or multi-vendor network as a whole fabric
+
+
+Controller becomes an active part of the distrusted network control plane, rather than a way to replace the control plane in all devices.
+
+Centralized view of the network, giving an SDN controller the ability to act as the brain of the network.
+
+Some routing protocols scale well, which already provides a level of automation.
+
+Adding a controller offer a single pane of glass and administration while also offering a single API interface to the network. (opposed to needing to establish SSH connection to a variety of network devices when making changes or obtaining data
+
+
