@@ -37,7 +37,7 @@ From the control controller to the device the southbound api its used 2 protocol
 
 OpenFlow is an API that gives direct access to and management of the forwarding plane on virtual and physical switches and routers
 
-Netconf - network management prototocol used to install, manipulate and delte the configuration of network devices via RPC messagges are encoded in XML
+NETCONF - network management prototocol used to install, manipulate and delte the configuration of network devices via RPC messagges are encoded in XML
 
 REST allows controllers to montior and manage infrastrutcture through HTTP and HTTPS verbs ( GET, PUT, DELETE etc)
 
