@@ -42,3 +42,57 @@ Logic     - Recipe/RunList
 Devices   - Resources
 Templates - Cookbook
 Variables - Variables
+
+
+Imperative Model vs Declarative models 
+-These are two ways to manage the network devices.-
+
+Imperative 
+In the past networks have traditionally been managed on a per device basis using this model
+Exact steps to achieve desired end state are specified using specific procedures and configuration items
+Each step each configuration each item is specified. 
+Think: it is imperative that you follow everything step by step
+
+Declarative
+Admin models how they want the environment to look, and the device decide on how best to implement changes.
+“The administration device says here what I’d like you to do, here’s how I’d like you to look, here’s a model of what I’d like you to be, but I’m going to go ahead and let you , the end device, decide how to best implement those changes”
+Think: I declare you decide the best way to achieve the best state
+
+
+CMT Tools or CMT server – CMT means Configuration management Tools.
+
+Agent vs Agentless
+Agent – the central server defines the required or intended state of the system. Agents running on the remote device use the pull method to pull down the configuration and enforce the desired state 
+Chef
+Puppet
+
+Agentless 
+Ansible
+Salt (sometimes called Saltstack)
+
+Puppet
+Configuration management framework where agents are installed on the devices (node)
+Agents regularly poll the system to constantly check the desired state and enforce configurations from the puppet server
+Puppet uses Declarative model
+
+
+Chef
+Server stores cookbooks which are polices applied to each node 
+Client agent pulls Ruby configuration from the server
+Chef is written in ruby
+The agent running on the client implements the recipe which is the code being deployed
+Chef uses the Imperative intent based model
+
+
+Ansible
+Written in python
+Controller defines a playbook
+Controller connects to the target device(s) over ssh or api and pushes the configuation
+
+	
+Salt
+Used for configuration management and also installing software on servers
+Uses python
+Salt nodes run client programs called minions
+Agentless if remote system supports shh and python
+
