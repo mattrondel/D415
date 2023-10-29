@@ -4,13 +4,13 @@ OpenStack
 
 https://wiki.openstack.org/wiki/Main_Page
 
-open-source cloud computing platform , joint project of Rackspace hosting and NASA
+Open-source cloud computing platform, joint project of Rackspace hosting and NASA
 
 READ MORE
 
 https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docID=5611487&ppg=114
 
-### Breakline
+### Breakline for new thoughts
 
 https://www.geeksforgeeks.org/introduction-to-openstack/
 
@@ -20,7 +20,7 @@ School material
 
 https://ebookcentral.proquest.com/lib/westerngovernors-ebooks/reader.action?docID=5611487&ppg=115
 
-### Designate used to point applications in the OpenStack environment to a trusted DNS source. Since it seeks to enhnace the securty in the environment, it is often desinated as straddling the mangement and securt functions.
+### Designate used to point applications in the OpenStack environment to a trusted DNS source. Since it seeks to enhance the security in the environment, it is often Designated as straddling the management and secure functions.
 
 
 
@@ -34,36 +34,36 @@ Compute module used to create and delete compute instances
 Synchronizes and maintains VM images across the compute cluster. Virtual machine image management THINK: Virtual Machine Images at a Glance
 
 ### Keystone
- authetication for accessing all of openStacks services
+ Authentication for accessing all of openStacks services
 
 ### Cinder
  is used for block storage as volumes for VMs
 
 ### Swift
- Object Storage used to store large amounts of statuc data in a cluster. Improve effiececy and scalability of user storage and unstructed data THINK SWIFT STROAGE
+ Object Storage used to store large amounts of static data in a cluster. Improve efficacy and scalability of user storage and unstructured data THINK SWIFT STROAGE
 
 ### Neutron
- networking allows comute and and storage nodes to communicate with each other THNK: NEutron Star Networking
+ Networking allows compute and storage nodes to communicate with each other THNK: Neutron Star Networking
 
 
 ## Management Modules 
 
 ### Horizon
-A GUI dashboard and is widely deployed management mobule - keyword DASHBOARD 
+A GUI dashboard and is widely deployed management module - keyword DASHBOARD 
 
 ### Heat 
-helps expediate orchestration of applications across muliple compute instances by using templates similar to CloudFormation
+Helps expedite orchestration of applications across multiple compute instances by using templates similar to CloudFormation
 
-### Celiometer monitors the NFVI and helps identify bottlenecks and resource optimization opportunites 
+### Celiometer monitors the NFVI and helps identify bottlenecks and resource optimization opportunities 
 
 ### Ironic 
-Provisioning tool for baremetal installs The Ironic module is forked from the Nova baremetal driver
+Provisioning tool for bare metal installs The Ironic module is forked from the Nova bare metal driver
 
 ### Congress
 A policy management framework for the openstack environment
 
 
-## Securtity Modules 
+## Security Modules 
 
 ### Barbican
 
@@ -71,19 +71,19 @@ Barbican is a REST API designed for the secure storage, provisioning and managem
 
 Is the Key manager service it provides secure storage, provisioning and management of secret data, such as password, encryption keys, X509 Certificates and raw binary data
 
-Should be used to imrove the storage and management of secure authentication information. Works with Keystone authentication to manage internal application secuurty by behaving as a key manager.
+Should be used to improve the storage and management of secure authentication information. Works with Keystone authentication to manage internal application security by behaving as a key manager.
 
 ### Murano
- prodives a white list reposity of applications
+ Provides a white list repository of applications
 
 
 ## Service Modules 
 
 ### Trove
- its a ditributed database service and enables users to deploy retaional and non-relational database engines
+ it’s a distributed database service and enables users to deploy relational and non-relational database engines
 
 ### Sahara
- used to be called Savanna - Big data services by providing elastic MapReduce and the abiltiy to provision Hadoop
+ Used to be called Savanna - Big data services by providing elastic MapReduce and the ability to provision Hadoop
 
 ### Maila
  NAS solutions for OpenStack deployment
