@@ -93,3 +93,6 @@ Should be used to imrove the storage and management of secure authentication inf
 
 ### Magnum
  umbrella project for container assitance. Module is still under development
+
+ ![openstack](https://github.com/mattrondel/D415/assets/109989470/869470f4-198e-4600-9e17-e9a8f18c1952)
+
