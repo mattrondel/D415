@@ -94,5 +94,7 @@ Should be used to improve the storage and management of secure authentication in
 ### Magnum
  umbrella project for container assitance. Module is still under development
 
+ Openstack overview notes:
+
  ![openstack](https://github.com/mattrondel/D415/assets/109989470/869470f4-198e-4600-9e17-e9a8f18c1952)
 
