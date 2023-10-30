@@ -224,6 +224,9 @@ Software-defined networking separates the control plane and the data plane while
 
 SDN gives admins centralized command and control while allowing administrators to manage the single or multi-vendor network as a whole fabric
 
+![openstack](https://github.com/mattrondel/D415/assets/109989470/4fe04fd7-fc83-4d6d-ade4-8273054b8f5d)
+
+
 
 Controller becomes an active part of the distrusted network control plane, rather than a way to replace the control plane in all devices.
 
